@@ -1,0 +1,2 @@
+# Facebook
+This is a hand coded facebook phishing page, it saves the files in a folder called usernames.txt, (this file will get created automatically when someone uses the index.html file). The most important thing is that all the files are in the same folder which is preferable, in actually it is probably most likely that you'll be using the public_html folder. If you have any questions or need a walkthrough shoot me an email @ github@zeroanon.net
